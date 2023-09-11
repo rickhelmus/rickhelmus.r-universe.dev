@@ -2,9 +2,5 @@
     {
         "package": "patRoon",
         "url": "https://github.com/rickhelmus/patRoon"
-    },
-    {
-        "package": "patRoonData",
-        "url": "https://github.com/rickhelmus/patRoonData"
     }
 ]
