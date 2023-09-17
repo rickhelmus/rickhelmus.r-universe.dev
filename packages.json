@@ -2,30 +2,30 @@
     {
         "package": "RDCOMClient",
         "url": "https://github.com/BSchamberger/RDCOMClient"
-    }
+    },
     {
         "package": "enviPick",
         "url": "https://github.com/blosloos/enviPick"
-    }
+    },
     {
         "package": "KPIC",
         "url": "https://github.com/rickhelmus/KPIC2"
-    }
+    },
     {
         "package": "splashR",
-        "url": "https://github.com/berlinguyinca/spectra-hash"
+        "url": "https://github.com/berlinguyinca/spectra-hash",
         "subdir": "splashR"
-    }
+    },
     {
         "package": "InterpretMSSpectrum",
-        "url": "https://github.com/cran/InterpretMSSpectrum"
+        "url": "https://github.com/cran/InterpretMSSpectrum",
         "branch": "1.3.3"
-    }
+    },
     {
         "package": "RAMClustR",
-        "url": "https://github.com/cbroeckl/RAMClustR"
+        "url": "https://github.com/cbroeckl/RAMClustR",
         "branch": "e005614"
-    }    
+    },
     {
         "package": "patRoon",
         "url": "https://github.com/rickhelmus/patRoon"
