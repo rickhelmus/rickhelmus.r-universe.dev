@@ -8,6 +8,14 @@
         "url": "https://github.com/blosloos/enviPick"
     },
     {
+        "package": "nontargetData",
+        "url": "https://github.com/blosloos/nontargetData"
+    },
+    {
+        "package": "nontarget",
+        "url": "https://github.com/blosloos/nontarget"
+    },
+    {
         "package": "KPIC",
         "url": "https://github.com/rickhelmus/KPIC2"
     },
@@ -24,7 +32,19 @@
     {
         "package": "RAMClustR",
         "url": "https://github.com/cbroeckl/RAMClustR",
-        "branch": "e005614"
+        "branch": "e005614d808e0ca93c459ec8cc103b87cd5d11fd"
+    },
+    {
+        "package": "cliqueMS",
+        "url": "https://github.com/rickhelmus/cliqueMS"
+    },
+    {
+        "package": "fastAdaboost",
+        "url": "https://github.com/souravc83/fastAdaboost"
+    },
+    {
+        "package": "MetaClean",
+        "url": "https://github.com/KelseyChetnik/MetaClean"
     },
     {
         "package": "patRoon",
