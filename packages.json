@@ -49,5 +49,9 @@
     {
         "package": "patRoon",
         "url": "https://github.com/rickhelmus/patRoon"
+    },
+    {
+        "package": "patRoonInst",
+        "url": "https://github.com/rickhelmus/patRoonInst"
     }
 ]
