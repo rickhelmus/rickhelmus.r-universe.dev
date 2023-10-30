@@ -47,6 +47,16 @@
         "url": "https://github.com/KelseyChetnik/MetaClean"
     },
     {
+        "package": "MS2Tox",
+        "url": "https://github.com/kruvelab/MS2Tox",
+        "branch": "main"
+    },
+    {
+        "package": "MS2Quant",
+        "url": "https://github.com/kruvelab/MS2Quant",
+        "branch": "main"
+    },
+    {
         "package": "patRoon",
         "url": "https://github.com/rickhelmus/patRoon"
     },
