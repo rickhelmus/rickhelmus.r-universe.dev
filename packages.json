@@ -35,6 +35,10 @@
         "branch": "e005614d808e0ca93c459ec8cc103b87cd5d11fd"
     },
     {
+        "package": "qlcMatrix",
+        "url": "https://github.com/cysouw/qlcMatrix"
+    },
+    {
         "package": "cliqueMS",
         "url": "https://github.com/rickhelmus/cliqueMS"
     },
