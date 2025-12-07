@@ -61,10 +61,10 @@
         "branch": "main"
     },
     {
-        "package": Rmstoolkitlib
-        "url": "https://github.com/rickhelmus/Rmstoolkitlib"
+        "package": "Rmstoolkitlib",
+        "url": "https://github.com/rickhelmus/Rmstoolkitlib",
         "branch": "main"
-    }
+    },
     {
         "package": "patRoon",
         "url": "https://github.com/rickhelmus/patRoon"
