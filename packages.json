@@ -52,12 +52,12 @@
     },
     {
         "package": "MS2Tox",
-        "url": "https://github.com/kruvelab/MS2Tox",
-        "branch": "main"
+        "url": "https://github.com/rickhelmus/MS2Tox",
+        "branch": "model_fix"
     },
     {
         "package": "MS2Quant",
-        "url": "https://github.com/drewszabo/MS2Quant",
+        "url": "https://github.com/kruvelab/MS2Quant",
         "branch": "main"
     },
     {
