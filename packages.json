@@ -57,7 +57,7 @@
     {
         "package": "RSirius",
         "url": "https://github.com/sirius-ms/sirius-client-openAPI",
-        "subdir": "client-api-r/generated"
+        "subdir": "client-api_r/generated"
     },
     {
         "package": "Rmstoolkitlib",
